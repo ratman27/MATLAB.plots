@@ -13,3 +13,10 @@ Data visualization in MATLAB is a powerful tool that helps us in several ways:
 - Customize and Refine Your Visualization: MATLAB provides extensive options for customizing visualizations, including adjusting colors, line styles, markers, and axes properties.
   
 ## MATLAB tools for Plotting and Graphing
+MATLAB provides a collection of plotting tools that form an interactive plotting environment. This environment enables you to:
+- Create various types of graphs.
+- Select variables to plot directly from a workspace browser.
+- Easily create and manipulate subplots in the figure.
+- Add annotations such as arrows, lines, and text.
+- Set properties on graphics objects.
+  
